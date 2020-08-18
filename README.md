@@ -28,8 +28,8 @@
 <br />
 <hr />
 
-[![Jaemin's github stats](https://github-readme-stats.vercel.app/api?username=jaem1n207&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)](https://github.com/jaem1n207/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaem1n207)](https://github.com/jaem1n207/github-readme-stats)
+[![Jaemin's github stats](https://github-readme-stats.vercel.app/api?username=jaem1n207&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)](https://github.com/jaem1n207/github-readme-stats)
 
 </div>
 
