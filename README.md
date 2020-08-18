@@ -28,7 +28,7 @@
 <br />
 <hr />
 
-[![Jaemin's github stats](https://github-readme-stats.vercel.app/api?username=jaem1n207&count_private=true&show_icons=true&theme=dracula)](https://github.com/jaem1n207/github-readme-stats)
+[![Jaemin's github stats](https://github-readme-stats.vercel.app/api?username=jaem1n207&count_private=true&show_icons=true&theme=dracula&bg_color=45DEG,#e56346,#904e94)](https://github.com/jaem1n207/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaem1n207)](https://github.com/jaem1n207/github-readme-stats)
 
