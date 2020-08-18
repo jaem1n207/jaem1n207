@@ -11,10 +11,7 @@
 - 🌱 I’m currently learning Node.js & TypeScript 🤣
 - 🥅 2020 Goals: Doing 3 toy projects using React 😎
 - 📫 How to reach me: roy.jm.lee@gmail.com
-- ⚡ Fun fact: I love to listen to music, Reading a book, watch drama and play badminton / soccer
-
-<br />
-
+- ⚡ Fun fact: I love to listen to music, Reading a book, watch drama and play badminton / soccer <br/>
 ### Languages: 
 
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
