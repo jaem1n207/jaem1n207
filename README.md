@@ -1,9 +1,3 @@
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaem1n207)](https://hits.seeyoufarm.com)
-
-</div>
-
 ### Hi there, I'm Jaemin - Front-End Web Developer 👋
 
 ## I'm a student at Daegu Software High School. 
