@@ -2,7 +2,7 @@
 
 ## I'm a student at Daegu Software High School. 
 - 🔭 I’m currently working on my project [Social Media](https://github.com/jaem1n207/SocialMedia) & [33_JS_Concepts](https://github.com/jaem1n207/33_JS_Concepts)
-- 🌱 I’m currently learning Node.js & TypeScript 🤣
+- 🌱 I’m currently learning Node.js 🤣
 - 🥅 2020 Goals: Doing 3 toy projects using React 😎
 - 📫 How to reach me: roy.jm.lee@gmail.com
 - ⚡ Fun fact: I love to listen to music, Reading a book, watch drama and play badminton / soccer <br/>
