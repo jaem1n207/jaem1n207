@@ -1,8 +1,8 @@
 ### Hi there, I'm Jaemin - Front-End Web Developer 👋
 
 ## I'm a Frontend Developer. 
-- 🔭 I’m currently working on my project [Sundoboo](https://github.com/Team-Two-Devs/Sundoboo-Web) & [33_JS_Concepts](https://github.com/jaem1n207/33_JS_Concepts)
-- 🌱 I’m currently learning react-query 🤣
+- 🔭 I’m currently working on my project [Sundoboo](https://github.com/Team-Two-Devs/Sundoboo-Web) & [33_JS_Concepts](https://github.com/jaem1n207/33_JS_Concepts) 🔥
+- 🌱 I’m currently learning react-query ✨
 - 🥅 2021 Goals: Start a project with something I like 😎
 - 📫 How to reach me: roy.jm.lee@gmail.com
 - ⚡ Fun fact: I love to listen to music, I go to vocal academy. <br/>
