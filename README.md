@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer. 
 - 🔭 I’m currently working on my project [quick-weather-view](https://github.com/jaem1n207/quick-weather-view) & [Sundoboo](https://github.com/Team-Two-Devs/Sundoboo-Web) 🔥
-- 🌱 I’m currently learning react-query ✨
+- 🌱 I’m currently learning react-query & Next.js ✨
 - 🥅 2022 Goals: Develop a chrome extension with React 😎
 - 📫 How to reach me: roy.jm.lee@gmail.com
 - ⚡ Fun fact: I love to listen to music, I go to vocal academy. <br/>
