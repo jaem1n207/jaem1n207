@@ -1,11 +1,8 @@
 ### Hi there, I'm Jaemin - Front-End Web Developer 👋
 
 ## I'm a Frontend Developer. 
-- 🔭 I’m currently working on my project [quick-weather-view](https://github.com/jaem1n207/quick-weather-view) & [Sundoboo](https://github.com/Team-Two-Devs/Sundoboo-Web) 🔥
-- 🌱 I’m currently learning react-query & Next.js ✨
-- 🥅 2022 Goals: Develop a chrome extension with React 😎
+- 🔭 I’m currently working on my project [quick-weather-view](https://github.com/jaem1n207/quick-weather-view)
 - 📫 How to reach me: roy.jm.lee@gmail.com
-- ⚡ Fun fact: I love to listen to music, I go to vocal academy. <br/>
 ### Languages: 
 
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
