@@ -14,9 +14,7 @@ I try to understand our business and use the appropriate technology to provide s
 ![github summary card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaem1n207&theme=monokai)
 
 ### 🔭 I'm developing side projects in my spare time
-<a href="https://github.com/jaem1n207/quick-weather-view">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaem1n207&repo=quick-weather-view" alt="quick-weather-view repository" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaem1n207&repo=quick-weather-view)](https://github.com/jaem1n207/quick-weather-view)
 
 ### 🌱 I’m currently learning
 - Languages: C++, HTML, CSS, JavaScript, TypeScript
