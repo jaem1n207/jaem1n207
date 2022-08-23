@@ -18,6 +18,6 @@ I try to understand our business and use the appropriate technology to provide s
 
 ### 🌱 I’m currently learning
 - Languages: C++, HTML, CSS, JavaScript, TypeScript
-- Framework & Library: Next.js, React-Query, Webpack, Tailwind CSS
+- Framework & Library: Next.js, React-Query, Recoil
 - Topic: Computer Science, Software engineering, Data structure, Shell Script
 
