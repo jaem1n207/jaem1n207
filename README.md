@@ -17,6 +17,6 @@ I try to understand our business and use the appropriate technology to provide s
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jaem1n207&repo=quick-weather-view)](https://github.com/jaem1n207/quick-weather-view)
 
 ### 🌱 I’m currently learning
-- Framework & Library: Zod
+- Framework & Library: Remix, Zod
 - Topic: Computer Science, Software engineering, Data structure
 
