@@ -11,11 +11,6 @@ I try to understand our business and use the appropriate technology to provide s
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaem1n207&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![github summary card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaem1n207&theme=monokai)
-
-### 🔭 I'm developing side projects in my spare time
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jaem1n207&repo=quick-weather-view)](https://github.com/jaem1n207/quick-weather-view)
-
 ### 🌱 I’m currently learning
 - Framework & Library: Remix, Zod
 - Topic: Computer Science, Software engineering, Data structure
