@@ -11,7 +11,4 @@ I try to understand our business and use the appropriate technology to provide s
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaem1n207&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 I’m currently learning
-- Framework & Library: Remix, Zod
-- Topic: Computer Science, Software engineering, Data structure
 
