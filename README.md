@@ -2,7 +2,9 @@
 
 Frontend Software Engineer.
 
-I’m interested in Next.js, Astro, Bun
+I’m interested in Bun
+
+One of the talks that impressed me is [Michael Chan - Hot Garbage Clean Code is Dead](https://youtu.be/-NP_upexPFg?si=l_z4qjq801tomApA).
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-roy.jm.lee@gmail.com-teal?style=flat-square&logo=gmail&logoColor=white&link=mailto:roy.jm.lee@gmail.com)](mailto:roy.jm.lee@gmail.com)
 [![Lazy Dev TechBlog](https://img.shields.io/badge/Lazy%20Dev-TechBlog-ffa7c4?style=flat-square&logo=https://i.ibb.co/DWcg2zC/icon-512x512.png)](https://lazy-dev.netlify.app/)
