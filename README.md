@@ -1,6 +1,6 @@
 ## Jaemin Lee
 
-Frontend Software Engineer.
+Software Engineer.
 
 I’m interested in Bun
 
