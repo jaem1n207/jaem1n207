@@ -1,8 +1,6 @@
 ## Jaemin Lee
 
-Software Engineer.
-
-I’m interested in Bun
+Front End Software Engineer.
 
 One of the talks that impressed me is [Michael Chan - Hot Garbage Clean Code is Dead](https://youtu.be/-NP_upexPFg?si=l_z4qjq801tomApA).
 
