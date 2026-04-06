@@ -32,4 +32,12 @@ Tools change quickly, but judgment, responsibility, and useful execution matter 
 
 ---
 
+<div align="center">
+
+*Have a good day.*  🦭
+
+</div>
+
+---
+
 ![](https://github-trophies.vercel.app/?username=jaem1n207&theme=gitdimmed&rank=SECRET,SSS,SS,S&margin-w=2)
