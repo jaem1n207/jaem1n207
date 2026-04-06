@@ -22,7 +22,7 @@ That mindset shapes how I work:
 
 I write about engineering, growth, and the mindset behind meaningful work on [bendd.me](https://bendd.me/).
 
-### Worth Watching
+### Worth Your Time
 
 [![YouTube](https://img.shields.io/badge/YouTube-Stanford_CS230_Lecture_9:_Career_Advice_in_AI-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/AuZoDsNmG_s?si=NyGQvpkNjake84o0)
 
