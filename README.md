@@ -12,17 +12,17 @@ I'm a software engineer who finds meaning in the work I'm responsible for.
 I don't wait for passion to make work meaningful. For me, meaningful work begins with ownership: understanding the real problem, respecting real constraints, and turning unclear requirements into clear, reliable, useful outcomes.
 
 That mindset shapes how I work:
-- I turn ambiguous requirements into clear scope, priorities, and shipped results.
-- I build software that is clear to use, reliable in production, and maintainable over time.
+- I turn ambiguous requirements into clear priorities and working solutions.
+- I build software that's intuitive, reliable, and maintainable.
 - I treat technical, product, and business constraints as design inputs, not obstacles to ignore.
 - I care about judgment as much as execution: what to build, why it matters, and how to deliver it well.
 - I keep learning because better tools only matter when they lead to better decisions and better products.
 
 ### Writing
 
-I write about engineering, growth, and the mindset behind meaningful work on [bendd.me](https://bendd.me/).
+I write about software engineering, growth, and the ideas that shape how I work on [bendd.me](https://bendd.me/).
 
-### Worth Your Time
+### A video I like
 
 [![YouTube](https://img.shields.io/badge/YouTube-Stanford_CS230_Lecture_9:_Career_Advice_in_AI-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/AuZoDsNmG_s?si=NyGQvpkNjake84o0)
 
